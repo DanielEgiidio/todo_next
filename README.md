@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GitHub language count" src="https://i.ibb.co/7z66r1c/logo-6.png">
+  Focal Point
 </h1>
 
 <p align="center">
